@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Region,Category,Product_Name,Sales,Cost,Profit,Month,Year
+1,1/1/2024,North,Technology,Chair,674,792,-118,Jan,2024
+2,1/2/2024,West,Office Supplies,Chair,1105,2661,-1556,Jan,2024
+3,1/3/2024,South,Office Supplies,Phone,4245,1224,3021,Jan,2024
+4,1/4/2024,North,Office Supplies,Printer,4308,2967,1341,Jan,2024
+5,1/5/2024,West,Technology,Printer,2269,773,1496,Jan,2024
+6,1/6/2024,West,Furniture,Laptop,1348,2571,-1223,Jan,2024
+7,1/7/2024,West,Furniture,Laptop,1590,2104,-514,Jan,2024
+8,1/8/2024,West,Furniture,Printer,2673,1681,992,Jan,2024
+9,1/9/2024,South,Furniture,Table,1662,316,1346,Jan,2024
+10,1/10/2024,West,Office Supplies,Phone,1679,941,738,Jan,2024
+11,1/11/2024,South,Office Supplies,Phone,1196,1024,172,Jan,2024
+12,1/12/2024,East,Furniture,Phone,4917,1542,3375,Jan,2024
+13,1/13/2024,North,Furniture,Table,2996,2808,188,Jan,2024
+14,1/14/2024,West,Furniture,Laptop,3257,1369,1888,Jan,2024
+15,1/15/2024,East,Technology,Laptop,4428,2109,2319,Jan,2024
+16,1/16/2024,North,Office Supplies,Phone,4547,692,3855,Jan,2024
+17,1/17/2024,North,Furniture,Laptop,2551,1414,1137,Jan,2024
+18,1/18/2024,North,Furniture,Phone,3810,2327,1483,Jan,2024
+19,1/19/2024,East,Technology,Printer,2247,942,1305,Jan,2024
+20,1/20/2024,South,Furniture,Printer,3404,617,2787,Jan,2024
+21,1/21/2024,East,Office Supplies,Laptop,1402,2124,-722,Jan,2024
+22,1/22/2024,West,Technology,Table,4368,2476,1892,Jan,2024
+23,1/23/2024,West,Technology,Laptop,1104,2063,-959,Jan,2024
+24,1/24/2024,East,Technology,Chair,4186,2614,1572,Jan,2024
+25,1/25/2024,North,Furniture,Phone,1369,207,1162,Jan,2024
+26,1/26/2024,South,Furniture,Chair,3951,2757,1194,Jan,2024
+27,1/27/2024,South,Furniture,Laptop,4281,990,3291,Jan,2024
+28,1/28/2024,South,Technology,Printer,1853,2090,-237,Jan,2024
+29,1/29/2024,South,Technology,Phone,600,2406,-1806,Jan,2024
+30,1/30/2024,North,Office Supplies,Laptop,1345,1982,-637,Jan,2024
+31,1/31/2024,South,Technology,Table,1171,1816,-645,Jan,2024
+32,2/1/2024,North,Furniture,Laptop,4165,1379,2786,Feb,2024
+33,2/2/2024,West,Furniture,Table,3607,695,2912,Feb,2024
+34,2/3/2024,North,Technology,Printer,737,826,-89,Feb,2024
+35,2/4/2024,West,Office Supplies,Table,1805,2771,-966,Feb,2024
+36,2/5/2024,South,Technology,Chair,521,2207,-1686,Feb,2024
+37,2/6/2024,East,Technology,Chair,1753,2070,-317,Feb,2024
+38,2/7/2024,West,Technology,Chair,900,998,-98,Feb,2024
+39,2/8/2024,West,Furniture,Chair,1506,2338,-832,Feb,2024
+40,2/9/2024,North,Furniture,Chair,3691,2538,1153,Feb,2024
+41,2/10/2024,East,Furniture,Table,2201,2814,-613,Feb,2024
+42,2/11/2024,West,Technology,Chair,2234,2073,161,Feb,2024
+43,2/12/2024,North,Office Supplies,Phone,3918,2923,995,Feb,2024
+44,2/13/2024,South,Technology,Table,1086,824,262,Feb,2024
+45,2/14/2024,West,Technology,Printer,1330,621,709,Feb,2024
+46,2/15/2024,South,Furniture,Table,2108,1292,816,Feb,2024
+47,2/16/2024,West,Furniture,Laptop,3705,637,3068,Feb,2024
+48,2/17/2024,West,Technology,Printer,1837,2349,-512,Feb,2024
+49,2/18/2024,East,Office Supplies,Chair,4047,987,3060,Feb,2024
+50,2/19/2024,West,Furniture,Chair,887,1945,-1058,Feb,2024
+51,2/20/2024,North,Office Supplies,Laptop,3266,1421,1845,Feb,2024
+52,2/21/2024,South,Office Supplies,Chair,4422,2628,1794,Feb,2024
+53,2/22/2024,South,Technology,Printer,1721,300,1421,Feb,2024
+54,2/23/2024,South,Technology,Printer,2424,1609,815,Feb,2024
+55,2/24/2024,West,Technology,Printer,1209,965,244,Feb,2024
+56,2/25/2024,North,Office Supplies,Table,947,1381,-434,Feb,2024
+57,2/26/2024,West,Furniture,Table,850,1101,-251,Feb,2024
+58,2/27/2024,East,Furniture,Printer,1164,430,734,Feb,2024
+59,2/28/2024,North,Technology,Table,4215,704,3511,Feb,2024
+60,2/29/2024,West,Furniture,Table,4921,2160,2761,Feb,2024
+61,3/1/2024,West,Office Supplies,Phone,924,2910,-1986,Mar,2024
+62,3/2/2024,East,Office Supplies,Table,4760,2503,2257,Mar,2024
+63,3/3/2024,West,Furniture,Phone,1701,2779,-1078,Mar,2024
+64,3/4/2024,East,Office Supplies,Phone,4011,1996,2015,Mar,2024
+65,3/5/2024,West,Office Supplies,Table,3212,860,2352,Mar,2024
+66,3/6/2024,North,Office Supplies,Table,1173,2834,-1661,Mar,2024
+67,3/7/2024,East,Technology,Table,2438,323,2115,Mar,2024
+68,3/8/2024,North,Technology,Chair,1253,2564,-1311,Mar,2024
+69,3/9/2024,North,Furniture,Phone,2473,2989,-516,Mar,2024
+70,3/10/2024,North,Furniture,Chair,4642,1474,3168,Mar,2024
+71,3/11/2024,South,Furniture,Printer,3187,1829,1358,Mar,2024
+72,3/12/2024,South,Office Supplies,Table,837,881,-44,Mar,2024
+73,3/13/2024,East,Office Supplies,Printer,4096,1776,2320,Mar,2024
+74,3/14/2024,North,Technology,Chair,4202,2436,1766,Mar,2024
+75,3/15/2024,North,Technology,Phone,2338,1433,905,Mar,2024
+76,3/16/2024,South,Furniture,Laptop,3434,891,2543,Mar,2024
+77,3/17/2024,West,Furniture,Table,4884,1520,3364,Mar,2024
+78,3/18/2024,North,Office Supplies,Printer,615,2307,-1692,Mar,2024
+79,3/19/2024,South,Technology,Printer,3184,2738,446,Mar,2024
+80,3/20/2024,East,Technology,Printer,3746,1702,2044,Mar,2024
+81,3/21/2024,East,Office Supplies,Chair,3046,2789,257,Mar,2024
+82,3/22/2024,West,Furniture,Chair,3904,2473,1431,Mar,2024
+83,3/23/2024,North,Technology,Laptop,4458,582,3876,Mar,2024
+84,3/24/2024,South,Technology,Chair,3133,2464,669,Mar,2024
+85,3/25/2024,South,Technology,Phone,4742,708,4034,Mar,2024
+86,3/26/2024,West,Technology,Phone,3320,1608,1712,Mar,2024
+87,3/27/2024,South,Technology,Printer,2299,1311,988,Mar,2024
+88,3/28/2024,South,Office Supplies,Table,3191,1591,1600,Mar,2024
+89,3/29/2024,West,Office Supplies,Printer,1572,2695,-1123,Mar,2024
+90,3/30/2024,East,Office Supplies,Phone,3648,2658,990,Mar,2024
+91,3/31/2024,West,Furniture,Phone,4712,929,3783,Mar,2024
+92,4/1/2024,West,Technology,Phone,2017,1569,448,Apr,2024
+93,4/2/2024,East,Office Supplies,Printer,2084,2464,-380,Apr,2024
+94,4/3/2024,East,Technology,Laptop,2502,1727,775,Apr,2024
+95,4/4/2024,West,Technology,Table,2727,2711,16,Apr,2024
+96,4/5/2024,North,Technology,Laptop,3109,1325,1784,Apr,2024
+97,4/6/2024,East,Technology,Laptop,3643,1521,2122,Apr,2024
+98,4/7/2024,West,Furniture,Table,4005,2137,1868,Apr,2024
+99,4/8/2024,South,Office Supplies,Phone,4578,1334,3244,Apr,2024
+100,4/9/2024,North,Office Supplies,Phone,574,574,0,Apr,2024
+101,4/10/2024,South,Furniture,Printer,3893,2999,894,Apr,2024
+102,4/11/2024,East,Technology,Printer,4104,2014,2090,Apr,2024
+103,4/12/2024,North,Technology,Laptop,3780,2771,1009,Apr,2024
+104,4/13/2024,West,Furniture,Table,528,2367,-1839,Apr,2024
+105,4/14/2024,North,Furniture,Table,1934,482,1452,Apr,2024
+106,4/15/2024,East,Furniture,Chair,3403,760,2643,Apr,2024
+107,4/16/2024,North,Office Supplies,Chair,3752,439,3313,Apr,2024
+108,4/17/2024,West,Technology,Laptop,2138,2942,-804,Apr,2024
+109,4/18/2024,West,Office Supplies,Printer,1277,808,469,Apr,2024
+110,4/19/2024,North,Technology,Phone,3944,556,3388,Apr,2024
+111,4/20/2024,West,Office Supplies,Phone,1385,2074,-689,Apr,2024
+112,4/21/2024,North,Furniture,Laptop,1112,2847,-1735,Apr,2024
+113,4/22/2024,North,Office Supplies,Table,4686,1629,3057,Apr,2024
+114,4/23/2024,North,Furniture,Chair,1592,1734,-142,Apr,2024
+115,4/24/2024,North,Technology,Printer,1117,2762,-1645,Apr,2024
+116,4/25/2024,East,Technology,Table,2046,2509,-463,Apr,2024
+117,4/26/2024,West,Technology,Printer,4608,812,3796,Apr,2024
+118,4/27/2024,North,Furniture,Printer,2773,649,2124,Apr,2024
+119,4/28/2024,West,Furniture,Laptop,2969,1853,1116,Apr,2024
+120,4/29/2024,East,Furniture,Chair,4763,771,3992,Apr,2024
+121,4/30/2024,West,Furniture,Chair,1428,1101,327,Apr,2024
+122,5/1/2024,West,Furniture,Phone,1902,2509,-607,May,2024
+123,5/2/2024,South,Furniture,Table,3861,2286,1575,May,2024
+124,5/3/2024,South,Technology,Table,1422,2336,-914,May,2024
+125,5/4/2024,South,Furniture,Chair,599,1943,-1344,May,2024
+126,5/5/2024,North,Office Supplies,Printer,2854,2618,236,May,2024
+127,5/6/2024,South,Office Supplies,Phone,2892,1489,1403,May,2024
+128,5/7/2024,South,Technology,Phone,2108,1830,278,May,2024
+129,5/8/2024,South,Technology,Printer,1420,1491,-71,May,2024
+130,5/9/2024,West,Technology,Phone,3806,597,3209,May,2024
+131,5/10/2024,North,Office Supplies,Printer,784,2732,-1948,May,2024
+132,5/11/2024,West,Technology,Phone,4230,2329,1901,May,2024
+133,5/12/2024,South,Technology,Chair,2849,1378,1471,May,2024
+134,5/13/2024,East,Furniture,Phone,3370,1911,1459,May,2024
+135,5/14/2024,North,Technology,Phone,500,1834,-1334,May,2024
+136,5/15/2024,South,Office Supplies,Table,2686,1757,929,May,2024
+137,5/16/2024,East,Technology,Phone,2989,1906,1083,May,2024
+138,5/17/2024,North,Technology,Printer,4538,2689,1849,May,2024
+139,5/18/2024,East,Furniture,Chair,3463,1369,2094,May,2024
+140,5/19/2024,North,Furniture,Phone,1686,813,873,May,2024
+141,5/20/2024,South,Technology,Chair,2598,2717,-119,May,2024
+142,5/21/2024,West,Technology,Chair,2568,383,2185,May,2024
+143,5/22/2024,East,Office Supplies,Phone,2676,311,2365,May,2024
+144,5/23/2024,East,Technology,Table,4701,1450,3251,May,2024
+145,5/24/2024,South,Office Supplies,Laptop,725,2345,-1620,May,2024
+146,5/25/2024,North,Office Supplies,Phone,2307,2486,-179,May,2024
+147,5/26/2024,West,Technology,Laptop,3690,2651,1039,May,2024
+148,5/27/2024,South,Office Supplies,Phone,2699,1235,1464,May,2024
+149,5/28/2024,South,Office Supplies,Chair,2432,1761,671,May,2024
+150,5/29/2024,West,Furniture,Phone,4473,1321,3152,May,2024
+151,5/30/2024,North,Technology,Laptop,4341,1575,2766,May,2024
+152,5/31/2024,East,Technology,Chair,766,2549,-1783,May,2024
+153,6/1/2024,East,Technology,Phone,3578,2849,729,Jun,2024
+154,6/2/2024,West,Office Supplies,Table,1114,2741,-1627,Jun,2024
+155,6/3/2024,East,Technology,Printer,4506,2798,1708,Jun,2024
+156,6/4/2024,West,Technology,Phone,4927,251,4676,Jun,2024
+157,6/5/2024,West,Technology,Table,1865,1240,625,Jun,2024
+158,6/6/2024,West,Office Supplies,Laptop,3954,971,2983,Jun,2024
+159,6/7/2024,East,Furniture,Table,2918,2082,836,Jun,2024
+160,6/8/2024,South,Technology,Printer,3830,630,3200,Jun,2024
+161,6/9/2024,East,Furniture,Table,1127,1637,-510,Jun,2024
+162,6/10/2024,East,Technology,Phone,1468,970,498,Jun,2024
+163,6/11/2024,West,Technology,Table,4985,845,4140,Jun,2024
+164,6/12/2024,East,Office Supplies,Phone,681,1601,-920,Jun,2024
+165,6/13/2024,West,Furniture,Laptop,2783,1643,1140,Jun,2024
+166,6/14/2024,West,Office Supplies,Printer,4789,2428,2361,Jun,2024
+167,6/15/2024,East,Furniture,Table,3634,1583,2051,Jun,2024
+168,6/16/2024,East,Office Supplies,Printer,2880,2511,369,Jun,2024
+169,6/17/2024,West,Furniture,Table,620,2939,-2319,Jun,2024
+170,6/18/2024,North,Office Supplies,Printer,1025,961,64,Jun,2024
+171,6/19/2024,South,Furniture,Table,722,1147,-425,Jun,2024
+172,6/20/2024,East,Furniture,Laptop,4176,895,3281,Jun,2024
+173,6/21/2024,West,Furniture,Laptop,4832,825,4007,Jun,2024
+174,6/22/2024,East,Furniture,Phone,2653,595,2058,Jun,2024
+175,6/23/2024,South,Technology,Table,3785,2699,1086,Jun,2024
+176,6/24/2024,East,Office Supplies,Laptop,4090,1941,2149,Jun,2024
+177,6/25/2024,South,Furniture,Laptop,4132,2755,1377,Jun,2024
+178,6/26/2024,North,Furniture,Printer,2076,704,1372,Jun,2024
+179,6/27/2024,East,Technology,Laptop,1422,2060,-638,Jun,2024
+180,6/28/2024,East,Office Supplies,Laptop,4057,2619,1438,Jun,2024
+181,6/29/2024,West,Technology,Phone,3609,1409,2200,Jun,2024
+182,6/30/2024,North,Furniture,Chair,4691,2597,2094,Jun,2024
+183,7/1/2024,West,Furniture,Printer,3044,2862,182,Jul,2024
+184,7/2/2024,East,Furniture,Laptop,562,1107,-545,Jul,2024
+185,7/3/2024,West,Furniture,Chair,2942,203,2739,Jul,2024
+186,7/4/2024,North,Furniture,Chair,2944,365,2579,Jul,2024
+187,7/5/2024,North,Technology,Laptop,2523,1615,908,Jul,2024
+188,7/6/2024,East,Furniture,Phone,650,2021,-1371,Jul,2024
+189,7/7/2024,North,Office Supplies,Table,903,1302,-399,Jul,2024
+190,7/8/2024,East,Office Supplies,Phone,2937,723,2214,Jul,2024
+191,7/9/2024,West,Office Supplies,Laptop,3352,2883,469,Jul,2024
+192,7/10/2024,East,Furniture,Printer,627,303,324,Jul,2024
+193,7/11/2024,East,Furniture,Table,2008,1927,81,Jul,2024
+194,7/12/2024,West,Office Supplies,Table,2297,899,1398,Jul,2024
+195,7/13/2024,North,Furniture,Laptop,3008,2377,631,Jul,2024
+196,7/14/2024,North,Office Supplies,Laptop,4325,2138,2187,Jul,2024
+197,7/15/2024,North,Office Supplies,Printer,1607,1508,99,Jul,2024
+198,7/16/2024,South,Furniture,Phone,4480,648,3832,Jul,2024
+199,7/17/2024,East,Technology,Printer,2522,1053,1469,Jul,2024
+200,7/18/2024,North,Technology,Laptop,1659,1809,-150,Jul,2024
