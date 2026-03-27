@@ -1,8 +1,49 @@
-# 📊 Sales Analysis Dashboard
+# 📊 Sales Analysis using Excel
 
-## 📌 Project Overview
-This project analyzes sales data using Excel and Power BI.
+## 🔥 Project Overview
 
-## 📷 Dashboard Preview
-![Dashboard]
-(Screenshot 2026-03-25 232035.png)
+This project focuses on analyzing sales data using Microsoft Excel.
+The goal is to understand business performance through basic data analysis and visualization.
+
+---
+
+## 📁 Dataset
+
+* Total Records: 1000+ rows
+* Columns: Order_Date, Sales, Cost, Profit, Region, Category
+
+---
+
+## ⚙️ Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Charts (Bar Chart, Pie Chart)
+
+---
+
+## 📊 Analysis Performed
+
+* Sales by Region
+* Sales by Category
+* Profit calculation (Sales - Cost)
+* Monthly sales trend
+
+---
+
+## 📈 Key Features
+
+* Created pivot tables for analysis
+* Built charts for visualization
+* Identified top-performing regions and categories
+
+---
+
+
+---
+
+## 💼 Author
+
+Aman Gosain
+Aspiring Data Analyst
+
