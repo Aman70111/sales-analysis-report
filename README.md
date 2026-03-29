@@ -1,4 +1,4 @@
-# 📊 Sales Analysis using Excel
+# 📊 Sales Analysis using Excel and powerbi 
 
 ## 🔥 Project Overview
 
